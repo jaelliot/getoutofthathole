@@ -49,5 +49,3 @@
 - **WAP**: Offers home improvements for energy savings.
 - **Eligibility**: Based on income or participation in federal assistance programs.
 - **Contact**: Find your state's LIHEAP office [here](https://www.acf.hhs.gov) and WAP office [here](https://www.energy.gov).
-
-_Remember to check the specific eligibility criteria and application details for each program, as they may vary._

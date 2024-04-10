@@ -9,7 +9,7 @@
 - Utah Valley University
 - Weber State University
 - University of Phoenix Utah Campus
-- Stevens Henager College Murray *(Note: Listed twice, may be a duplicate)*
+- Stevens Henager College Murray
 - Stevens Henager College Logan
 - Eagle Gate College Layton
 - Broadview University Layton

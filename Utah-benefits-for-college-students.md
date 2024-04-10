@@ -42,6 +42,3 @@
 
 ### 10. Community Gardens
 - Check out the [Garden.md](Garden.md) for more information.
-
-
-_Sources: College SNAP Project, Utah Welfare Info, Utahns Against Hunger, @theU - University of Utah, USU, Need Help Paying Bills, Department of Workforce Services._
