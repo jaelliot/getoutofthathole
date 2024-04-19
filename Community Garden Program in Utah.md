@@ -60,5 +60,3 @@
 - **Educational Opportunities**: Youth and adults in urban agriculture.
 - **Volunteering**: Central to the program, with training provided.
 - **Source**: [Utah Conservation Corps Urban Community Farm](https://extension.usu.edu/uccucf/)
-
-_These programs provide excellent opportunities for community involvement, learning about agriculture, and promoting sustainable food sources. Whether you're looking to start your own garden or join an existing one, these resources offer a great starting point._

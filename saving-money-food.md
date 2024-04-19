@@ -1,7 +1,7 @@
 ### Breakfast
 - **Oatmeal Base**: Continue with oatmeal; it's affordable, nutritious, and filling. Buying in bulk can save money.
 - **Nuts and Seeds**: Purchase hemp seeds, cashews, pistachios, and pumpkin seeds in bulk. Look for wholesale options or buy online for better deals.
-- **Berries**: Opt for frozen berries or consider growing your own in your future garden to save more.
+- **Berries**: Opt for frozen berries or consider growing your own in your future garden to save more. 
 - **Eggs**: Buy directly from a local farm for better prices on free-range eggs if possible.
 
 ### Lunch

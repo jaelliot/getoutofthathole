@@ -1,23 +1,25 @@
-### Skills and Technologies
+### Technologies
 - ArgoCD
 - Confluence
-- deployment
-- fault-tolerant systems
 - Hashicorp Terraform
 - Hashicorp Vault
 - Hashicorp Packer
 - Hashicorp Nomad
-- infrastructure-as-code
-- IaC tools
-- leadership
-- Python
+- Github Actions
 - serviceNow
-- shell
-- powershell
-- structured cabling infrastructure
 - Ansible
-- troubleshooting
+
+### Soft Skills
+- Troubleshooting
+- Leadership
+- Rack and Stack
+- Negotiation
+
+### Programming Languages
+- Python
+- Shell/Powershell
 - Golang
+- HCL
 
 ### Operating Systems
 - FreeBSD
@@ -47,7 +49,8 @@
 - English
 - Spanish
 
-
+### Sales Development tools
+- Hubspot
 
 # The skills in a comma separated value string for copy and pasting.
-ArgoCD, Confluence, deployment, fault-tolerant systems, Hashicorp Terraform, Hashicorp Vault, Hashicorp Packer, Hashicorp Nomad, infrastructure-as-code, IaC tools, leadership, Python, serviceNow, shell, powershell, structured cabling infrastructure, Ansible, troubleshooting, Golang, FreeBSD, RedHat Linux, Ubuntu, Windows Server 2019, AWS, Azure, DigitalOcean, GCP, Docker, Hyper-V, Kubernetes, VMware, AWS Certified Solutions Architect, AWS Cloud Practitioner, DoD CUI Training, Jamf Certified Associate, English, Spanish
+ArgoCD, Confluence, deployment, Hashicorp Terraform, Hashicorp Vault, Hashicorp Packer, Hashicorp Nomad, leadership, Python, serviceNow, shell, powershell, rack and stack, Ansible, troubleshooting, Golang, FreeBSD, flutter, dart, RedHat Linux, Ubuntu, Windows Server 2019, AWS, Azure, DigitalOcean, GCP, Docker, Hyper-V, Kubernetes, VMware, AWS Certified Solutions Architect, AWS Cloud Practitioner, DoD CUI Training, Jamf Certified Associate, English, Spanish

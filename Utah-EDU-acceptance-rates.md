@@ -6,7 +6,7 @@
 - Eagle Gate College Murray
 - Stevens Henager College Ogden
 - Stevens Henager College of Business Provo
-- Utah Valley University
+- **Utah Valley University**
 - Weber State University
 - University of Phoenix Utah Campus
 - Stevens Henager College Murray
