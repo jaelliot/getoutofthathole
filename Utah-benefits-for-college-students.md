@@ -41,4 +41,4 @@
 - Visit [Utah Department of Workforce Services](https://jobs.utah.gov) for applications and program details.
 
 ### 10. Community Gardens
-- Check out the [Garden.md](Garden.md) for more information.
+- Check out the [Garden.md](Garden-Plan.md) for more information.

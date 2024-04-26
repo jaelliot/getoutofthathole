@@ -20,5 +20,3 @@ Leverage your connections, including those with the mayor of SLC and other well-
 
 ### Justification and Improvements
 This guide is designed to navigate the complexity of state job applications by providing a structured approach to finding and applying for IT jobs in Utah. It leverages official resources and emphasizes the importance of networking and thorough preparation. The steps outlined ensure that you are well-informed about available opportunities and prepared to present yourself as a strong candidate. Improvements to this approach could include direct engagement with specific state agencies for informational interviews or seeking internships as a means to gain relevant experience and visibility within the state government sector.
-
-Remember, persistence and informed preparation are key to securing a government IT job in Utah. Good luck!

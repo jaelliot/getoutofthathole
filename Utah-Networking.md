@@ -1,5 +1,7 @@
-I've compiled a list of useful resources for people living in Utah and the surrounding areas.
-This resource includes the following:
+#I've compiled a list of useful resources for people living in Utah and the surrounding areas.
+##This resource includes the following:
+
+
 - Resources related to jobs, socializing, hobbys, etc.
 
 
@@ -18,6 +20,7 @@ This resource includes the following:
 - [Eventbrite - Utah Tech Events](https://www.eventbrite.com) - Platform for discovering local tech events and seminars.
 - [Meetup.com - Tech Meetups in Utah](https://www.meetup.com/topics/tech/us/ut/) - Find tech meetups across various IT topics in Utah.
 - [Utah Innovation Center Events](https://business.utah.gov/innovation/) - Workshops and seminars for innovators and entrepreneurs in Utah.
+- [Utah InfoSec Confernences](https://infosec-conferences.com/us-state/utah/) - Information security conferences in Utah.
 
 ### Job Platforms
 - [USAJobs](https://www.usajobs.gov) - Official federal government job portal.

@@ -3,15 +3,18 @@
 - **Nuts and Seeds**: Purchase hemp seeds, cashews, pistachios, and pumpkin seeds in bulk. Look for wholesale options or buy online for better deals.
 - **Berries**: Opt for frozen berries or consider growing your own in your future garden to save more. 
 - **Eggs**: Buy directly from a local farm for better prices on free-range eggs if possible.
+- **Smoothie Maker**: Invest in a good quality blender (e.g., Vitamix or Nutribullet) to make nutritious smoothies with fruits, nuts, and seeds.
 
 ### Lunch
 - **Sandwich Meat and Cheese**: Buying in larger, unprocessed blocks and slicing it yourself can reduce costs.
 - **Bread**: Making your own bread with a bread machine for healthier, customizable options.
+- **Salads**: Grow your own vegetables and herbs to use in salads. Consider a salad spinner for easy preparation.
 
 ### Dinner
 - **Meat and Bones**: Buy in bulk and freeze. Consider less popular cuts of meat for savings.
 - **Roots and Vegetables**: Grow your own or buy in season and freeze or can for off-season use.
 - **Thickening Agents**: Bulk purchasing and proper storage.
+- **Pressure Cooker**: An electric pressure cooker (e.g., Instant Pot) can reduce cooking time and energy usage.
 
 ### Spices, Herbs, and Condiments
 - **Dried and Fresh Seasonings**: Grow herbs in your garden or indoors. Buy dried spices in bulk from wholesale suppliers.
@@ -31,3 +34,10 @@
 - **Lomi Classic (Countertop Food Composter)** ($500): For composting kitchen scraps.
 - **The AeroGarden: Farm 24XL** ($600): For indoor gardening of herbs, greens, and vegetables.
 - **Mushroom Grow Tent** ($100-$300): For growing edible mushrooms.
+- **Bread Machine (Zojirushi Home Bakery Virtuoso Plus)** ($350-$450): For baking a variety of breads with ease.
+- **Kitchen Countertop Grain Mill (Mockmill 200)** ($300-$400): For freshly milled grains, enhancing flavor and nutritional value.
+- **High-Quality Dehydrator for Meats (Excalibur 9-Tray)** ($300-$400): For preserving meats with optimal air flow and temperature control.
+- **High-Quality Dehydrator for Vegetables (Tribest Sedona Express)** ($300-$400): For preserving vegetables and fruits, maintaining nutrients.
+- **Kombucha Brewing Kit (The Kombucha Shop Brewing Kit)** ($40-$100): Includes everything needed to start brewing kombucha at home.
+- **Smoker (Weber Smokey Mountain Cooker)** ($400-$500): For smoking a variety of meats with precision temperature control.
+- **Pomegranate Juice Press Large Commercial Squeezer** ($200-$300): A heavy-duty, manual juice press ideal for pomegranates.

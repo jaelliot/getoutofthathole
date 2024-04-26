@@ -1,4 +1,5 @@
-Here's a list of frats.
+Here's a list of frats on the UVU scholarship page.
+
 
 Pi Sigma Alpha, Alpha Chi Omega, Alpha Delta Pi, Alpha Epsilon Pi, Alpha Gamma Sigma, Alpha Kappa Psi, Alpha Nu Omega, Alpha Omicron Pi, Alpha Phi Delta, Alpha Phi Sigma, Alpha Sigma Alpha, Alpha Sigma Phi, Alpha Xi Delta, Beta Gamma Sigma, Beta Sigma Psi, Acacia Fraternity, Alpha Chi Rho, Alpha Epsilon Delta, Alpha Gamma Delta, Alpha Kappa Alpha, Alpha Lambda Delta, Alpha Omega Alpha, Alpha Phi, Alpha Phi Gamma, Alpha Pi Omega, Alpha Sigma Lambda, Alpha Sigma Tau, Alpha Zeta, Beta Lambda, Beta Theta Pi, Alpha Chi, Alpha Delta Nu, Alpha Epsilon Phi, Alpha Gamma Rho, Alpha Kappa Lambda, Alpha Mu Zeta, Alpha Omega Epsilon, Alpha Phi Alpha, Alpha Phi Omega, Alpha Psi Lambda, Alpha Sigma Phi, Alpha Tau Omega, Beta Alpha Psi, Beta Phi Mu, Beta Upsilon Chi
 
