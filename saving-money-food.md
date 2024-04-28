@@ -15,6 +15,7 @@
 - **Roots and Vegetables**: Grow your own or buy in season and freeze or can for off-season use.
 - **Thickening Agents**: Bulk purchasing and proper storage.
 - **Pressure Cooker**: An electric pressure cooker (e.g., Instant Pot) can reduce cooking time and energy usage.
+- **Crock Pot**: An electric stew cooker, low effort, you can set the meal and forget until it's time to eat.
 
 ### Spices, Herbs, and Condiments
 - **Dried and Fresh Seasonings**: Grow herbs in your garden or indoors. Buy dried spices in bulk from wholesale suppliers.
@@ -30,6 +31,10 @@
 ### Later Additions
 - **Chest Freezer** ($200-$500): For storing extra food and bulk purchases.
 - **Rat Proof Food Containers** ($50-$200): To safely store pantry items.
+- **Bread Box** ($30-$50): To safely store bread.
+- **Baking Steel** ($40-$100): Used to bake breads and pizzas.
+- **Dutch Ovens** ($50-$300): Used for a variety of meals; comes in various sizes and materials. I'm interested in the enamel and cast iron pieces.
+- **Counter Top Berkey Filter** ($400): High quality counter top water filter.
 - **Mylar Bags with Oxygen and Moisture Absorbers** ($20-$100): For long-term storage of dry goods.
 - **Lomi Classic (Countertop Food Composter)** ($500): For composting kitchen scraps.
 - **The AeroGarden: Farm 24XL** ($600): For indoor gardening of herbs, greens, and vegetables.
