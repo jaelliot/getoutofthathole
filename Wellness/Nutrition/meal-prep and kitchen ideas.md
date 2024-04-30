@@ -1,3 +1,34 @@
+## Simplified and Budget-Conscious Weekly Meal Plan
+
+### Daily Breakfast
+- **Oatmeal**: Vary toppings throughout the week to keep it interesting:
+  - **Monday**: Banana slices and a sprinkle of cinnamon.
+  - **Tuesday**: A handful of frozen berries (thawed overnight).
+  - **Wednesday**: Chopped apple with a dash of nutmeg.
+  - **Thursday**: A tablespoon of peanut butter and a drizzle of honey.
+  - **Friday**: A few slices of peach with a pinch of ground ginger.
+  - **Saturday**: A topping of mixed nuts and seeds for added texture.
+  - **Sunday**: A swirl of yogurt and a sprinkle of granola.
+- **Eggs**: Prepare differently to add variety:
+  - **Scrambled**, **fried**, **poached**, or **boiled**; consider adding available veggies like spinach or tomatoes when possible.
+
+### Daily Lunch
+- **Sandwiches**: Rotate ingredients based on what’s available and affordable:
+  - **Meat choices**: Turkey, chicken, or canned tuna.
+  - **Vegetables**: Lettuce, tomato, cucumbers, or bell peppers.
+  - **Cheese**: If budget allows, add a slice of cheese for extra flavor and calcium.
+- **Leftovers**: Always plan dinners that make enough to have leftovers for lunch the next day, reducing both food waste and cooking time.
+
+### General Tips
+- **Buy in Bulk**: When possible, buy staples like oatmeal, eggs, bread, and frozen vegetables in bulk for better savings.
+- **Seasonal Purchases**: Opt for seasonal produce to reduce costs and increase freshness.
+- **Cooking Methods**: Utilize versatile cooking methods like boiling and frying for eggs, and toasting or grilling for sandwiches to vary textures and flavors.
+- **Meal Preparation**: Prep your meals in batches where possible, especially oatmeal toppings and sandwich fillings, to save time during your week.
+
+
+
+## Previous plan
+
 ### Breakfast
 - **Oatmeal Base**: Continue with oatmeal; it's affordable, nutritious, and filling. Buying in bulk can save money.
 - **Nuts and Seeds**: Purchase hemp seeds, cashews, pistachios, and pumpkin seeds in bulk. Look for wholesale options or buy online for better deals.
@@ -17,32 +48,3 @@
 - **Pressure Cooker**: An electric pressure cooker (e.g., Instant Pot) can reduce cooking time and energy usage.
 - **Crock Pot**: An electric stew cooker, low effort, you can set the meal and forget until it's time to eat.
 
-### Spices, Herbs, and Condiments
-- **Dried and Fresh Seasonings**: Grow herbs in your garden or indoors. Buy dried spices in bulk from wholesale suppliers.
-- **Condiments**: Making your own ketchup from sundried tomatoes can be more cost-effective.
-
-### General Tips for Cost Saving
-- **Bulk Purchasing**: For non-perishable items to save money in the long run.
-- **Seasonal Buying**: For the best prices on fruits and vegetables, then freeze extras.
-- **Home Processing**: Utilize appliances to make your own dried fruits, jerky, bread, etc.
-- **Gardening**: Can significantly reduce the cost of fresh produce.
-- **Water Filtration**: Saves money on bottled water and improves water quality.
-
-### Later Additions
-- **Chest Freezer** ($200-$500): For storing extra food and bulk purchases.
-- **Rat Proof Food Containers** ($50-$200): To safely store pantry items.
-- **Bread Box** ($30-$50): To safely store bread.
-- **Baking Steel** ($40-$100): Used to bake breads and pizzas.
-- **Dutch Ovens** ($50-$300): Used for a variety of meals; comes in various sizes and materials. I'm interested in the enamel and cast iron pieces.
-- **Counter Top Berkey Filter** ($400): High quality counter top water filter.
-- **Mylar Bags with Oxygen and Moisture Absorbers** ($20-$100): For long-term storage of dry goods.
-- **Lomi Classic (Countertop Food Composter)** ($500): For composting kitchen scraps.
-- **The AeroGarden: Farm 24XL** ($600): For indoor gardening of herbs, greens, and vegetables.
-- **Mushroom Grow Tent** ($100-$300): For growing edible mushrooms.
-- **Bread Machine (Zojirushi Home Bakery Virtuoso Plus)** ($350-$450): For baking a variety of breads with ease.
-- **Kitchen Countertop Grain Mill (Mockmill 200)** ($300-$400): For freshly milled grains, enhancing flavor and nutritional value.
-- **High-Quality Dehydrator for Meats (Excalibur 9-Tray)** ($300-$400): For preserving meats with optimal air flow and temperature control.
-- **High-Quality Dehydrator for Vegetables (Tribest Sedona Express)** ($300-$400): For preserving vegetables and fruits, maintaining nutrients.
-- **Kombucha Brewing Kit (The Kombucha Shop Brewing Kit)** ($40-$100): Includes everything needed to start brewing kombucha at home.
-- **Smoker (Weber Smokey Mountain Cooker)** ($400-$500): For smoking a variety of meats with precision temperature control.
-- **Pomegranate Juice Press Large Commercial Squeezer** ($200-$300): A heavy-duty, manual juice press ideal for pomegranates.
