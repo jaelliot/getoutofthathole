@@ -1,0 +1,129 @@
+"Excel Wizard","Can you explain the [formula/function] in Excel and give an example of how to use it?"
+
+"Excel Wizard","Can you explain the [formula/function] in Excel and give an example of how to use it for a [calculation]?"
+
+"Excel Wizard","Write me an excel formula [your question]"
+
+"Excel Wizard","How do I perform a [calculation] in Excel?"
+
+"Excel Wizard","How can I perform a [calculation] on [data set] in Excel?"
+
+"Excel Wizard","Write an excel formula to find the [statistical calculation] of values in cells [cell1] through [cell2]"
+
+"Excel Wizard","Write an excel formula to use the [function name] to [function purpose] in [cell range/text string]"
+
+"Excel Wizard","Can you show me how to use the [formula/function] in Excel?"
+
+"Excel Wizard","How to use [function name] in Excel to perform [specific task]."
+
+"Excel Wizard","How can I count the number of unique values in a column in Excel?"
+
+"Excel Wizard","How can I find the maximum value in a column in Excel?"
+
+"Excel Wizard","Can you show me how to use the INDEX and MATCH formula in Excel to look up values in a table?"
+
+"Excel Wizard","Write an excel formula to concatenate [cell1], [cell2], and [cell3]."
+
+"Excel Wizard","How do I create a drop-down list in Excel?"
+
+"Excel Wizard","Can you explain the SUM formula with the COUNTIF function and the ROW function in Excel and give an example of how to use it to calculate the cumulative average?"
+
+"Excel Wizard","How do I sum every nth row in Excel?"
+
+"Excel Wizard","How can I transpose data in Excel from rows to columns or from columns to rows?"
+
+"Excel Wizard","How do I sum data based on a cell color in Excel?"
+
+"Excel Wizard","Can you show me how to use the SUM formula with the OFFSET function in Excel to calculate the cumulative sum?"
+
+"Excel Wizard","Can you show me how to use the AVERAGE formula with the OFFSET function and the EDATE function in Excel to calculate the moving average of the last 3 months?"
+
+"Excel Wizard","Can you show me how to use the formula (new value – old value) / old value in Excel to calculate the percent change?"
+
+"Excel Wizard","How can I calculate the moving average of the last N periods in Excel?"
+
+"Excel Wizard","Can you explain the AVERAGE formula with the OFFSET function and the MOD function in Excel and give an example of how to use it to calculate the moving average of the last N periods?"
+
+"Excel Wizard","Write me an excel formula to use the DATEVALUE and TIMEVALUE function to convert a date and time text string into a date and time serial number"
+
+"Excel Wizard","Write an excel formula to perform a [mathematical operation] on [cell1] and [cell2]."
+
+"Excel Wizard","Write an excel formula to round [cell1] to [x] decimal places."
+
+"Excel Wizard","Write an excel formula to return “Pass” if [cell1] is greater than or equal to [value], and “Fail” otherwise."
+
+"Excel Wizard","Write an excel formula to return [cell2] if [cell1] is greater than [value1] and less than [value2], and [cell3] otherwise."
+
+"Excel Wizard","Write an excel formula to return [cell2] if [cell1] is not blank, and [cell3] otherwise."
+
+"Excel Wizard","Write an excel formula to return the maximum value between [cell1] and [cell2]."
+
+"Excel Wizard","Write an Excel formula to return the maximum or minimum value based on a condition."
+
+"Excel Wizard","Write an excel formula to return [value1] if [cell1] does not contain [text], and [value2] otherwise."
+
+"Excel Wizard","Write an excel formula to return [value1] if [cell1] is between [x] and [y], and [value2] otherwise."
+
+"Excel Wizard","Can you write an IF formula to return ‘Greater than 10’ if the value in cell [cell1] is greater than 10, otherwise return ‘Less than or equal to 10’?"
+
+"Excel Wizard","Write an excel formula to extract the first [x] characters from [cell1]."
+
+"Excel Wizard","Write an excel formula to replace [old text] in [cell1] with [new text]."
+
+"Excel Wizard","Write an excel formula to find the number of characters in [cell1]."
+
+"Excel Wizard","Write an excel formula to convert [cell1] to lowercase."
+
+"Excel Wizard","Write an excel formula to extract the text between [start text] and [end text] in [cell1]."
+
+"Excel Wizard","Write an excel formula to calculate the number of days between [cell1] and [cell2]."
+
+"Excel Wizard","Write an excel formula to add [x] days to [cell1]."
+
+"Excel Wizard","Write an excel formula to calculate the age (in years) based on [cell1]."
+
+"Excel Wizard","Write an excel formula to look up [value] in [range] and return the corresponding value from [column]."
+
+"Excel Wizard","Write an excel formula to find the value in [cell1] based on the value in [cell2]."
+
+"Excel Wizard","Write an excel formula to return the value in [cell1] if [cell2] is blank, and [cell2] otherwise."
+
+"Excel Wizard","Write an excel formula to [function] the [calculation type] of the values in [range]."
+
+"Excel Wizard","Write an excel formula to return the largest value in [range1] that is also in [range2]."
+
+"Excel Wizard","Write an excel formula to find the number of occurrences of [value] in [range]."
+
+"Excel Wizard","Write an Excel formula to find the maximum value in a range, excluding certain values."
+
+"Excel Wizard","Can you write a formula to apply red fill color to cells in the range A1 to A10 if the value in the cell is less than 10?"
+
+"Excel Wizard","Can you code a function in VBA to extract unique values from a range of cells in Excel?"
+
+"Excel Wizard","Write an Excel formula to calculate the [function] of a set of data."
+
+"Excel Wizard","Write an Excel formula using the VLOOKUP function to [task] based on [criteria]."
+
+"Excel Wizard","Write a macro to automatically [task] [data]."
+
+"Excel Wizard","Write an Excel macro to [task] by [method]."
+
+"Excel Wizard","Write an Excel macro to apply formatting, such as bold or italic, to a range of cells based on a specific condition."
+
+"Excel Wizard","Can you help me find the sum of column A where column B contains the word “ChatGPT” and column C is today’s date in Excel?"
+
+"Excel Wizard","Write an Excel formula to [task] in column A based on [criteria] in columns B and C."
+
+"Excel Wizard","Write a VLOOKUP formula to find the salary of an employee based on their name in cells A1 to C10, where column A contains names, column B contains IDs, and column C contains salaries."
+
+"Excel Wizard","How do I extract the first 3 characters from the value in cell A1 using the LEFT function?"
+
+"Excel Wizard","Write a formula to extract the names of all employees whose salary is greater than $50,000 in cells A1 to C10, where column A contains names, column B contains IDs, and column C contains salaries."
+
+"Excel Wizard","Write a formula to look up the value for “apple” based on the criteria “fruit type” in cells A1 to B10."
+
+"Excel Wizard","Code a formula to calculate the total sales of a company based on the data in columns A to D."
+
+"Excel Wizard","Code a solution to automatically sort the data in column A whenever data is entered into column B."
+
+"Excel Wizard","How to code a macro in Excel to format cells based on their values, for example, to highlight cells with values greater than 100."
