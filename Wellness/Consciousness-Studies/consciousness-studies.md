@@ -2,14 +2,14 @@
 
 ## I need to create a "jungian style spirituality", action plan.
 
-### I need to compile a list of groups near me that do the following:
+### I need to compile a list of groups near me for the following:
 
 - breathwork practioner meetups, events, and workshops. (grof)
-- Meditation centers
-- Kundalini yoga studios
-- people associated with native american tribes who can help facilitate spiritual growth. stuff along the lines of sweat lodges, sun dances, and vision quests.
-- groups like the native american church (peyote), the divine assembly (psilocybin), etc.
-- 
+- Meditation centers; Emphasis on Tibetian, Bon Buddhist meditation schools.
+- Kundalini yoga studios; Choose a school that's run by an instructor whose had an "awakening."
+- I need to find people or shamans associated with native american tribes who can help facilitate spiritual growth. stuff along the lines of sweat lodges, sun dances, and vision quests.
+- I need to find groups like the native american church (peyote), the divine assembly (psilocybin), etc. That can help faciliate safe vision quests in a controlled environment.
+- I need to find or create a group that can help facilitate the study of consciousness with BCIs.
 
 ### I need to create a fine tune corpus on the world's religious and mystical texts:
 
