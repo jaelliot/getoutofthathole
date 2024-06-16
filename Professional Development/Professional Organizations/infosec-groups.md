@@ -1,0 +1,24 @@
+# Infosec Professional Associations:
+
+- **BSides San Francisco**  
+- **CForum**  
+- **CompTIA**  
+- **CREST**  
+- **CSA - Cloud Security Alliance**  
+- **EWF - Executive Women's Forum**  
+- **FAIR Institute**  
+- **FIDO Alliance**  
+- **GIAC - Global Information Assurance Certification**  
+- **Human Security Engineering Consortium**  
+- **IAPP - International Association of Privacy Professionals**  
+- **IDSA - Identity Defined Security Alliance**  
+- **InfraGard**  
+- **Internet Society**  
+- **ISACA - Information Systems Audit and Control Association**  
+- **(ISC)²**  
+- **ISSA - Information Systems Security Association**  
+- **NCA - National Cyber Alliance**  
+- **NRF - National Retail Federation**  
+- **OWASP - Open Web Application Security Project**  
+- **RH-ISAC - Retail & Hospitality ISAC**  
+- **SANS** 

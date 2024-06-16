@@ -1,0 +1,36 @@
+/* ==UserStyle==
+@name           udemy.com - May 2024
+@namespace      github.com/openstyles/stylus
+@version        1.0.2
+@description    Adjusts the visibility and position of the overlay and control bar without breaking the video player
+@author         Jay-Alexander Elliot
+@ This makes using Udemy more enjoyable by hiding the overlay and making the control bar semi-transparent. 
+@ It also adds a hover effect to make the control bar more visible when needed.
+==/UserStyle== */
+
+@-moz-document domain("udemy.com"), domain("www.udemy.com") {
+    .user-activity--hide-when-user-inactive--Oc6Cn.shaka-control-bar--popover-area--p01Ag.video-popover-area {
+        opacity: 0.01 !important;
+        pointer-events: auto !important;
+        z-index: -1 !important; /* Move the overlay behind other elements */
+        position: relative !important; /* Ensure position changes take effect */
+        top: -10px !important; /* Move it slightly upwards */
+    }
+
+    .shaka-control-bar--control-bar-wrapper--QAdFg {
+        opacity: 0.5 !important; /* Make it semi-transparent */
+        pointer-events: auto !important; /* Ensure it remains functional */
+        transition: opacity 0.1s ease-in-out !important; /* Smooth transition for visibility */
+    }
+
+    /* Optional: Add a hover effect to make the control bar more visible when needed */
+    .shaka-control-bar--control-bar-wrapper--QAdFg:hover {
+        opacity: 1 !important; /* Fully visible on hover */
+    }
+
+    /* Ensure the video player itself is clickable */
+    .video-main-container {
+        pointer-events: auto !important; /* Ensure the video player registers clicks */
+    }
+
+}
